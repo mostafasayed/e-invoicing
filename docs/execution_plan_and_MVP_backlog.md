@@ -1,4 +1,3 @@
-
 # Organized Execution Plan
 ## UAE E‑Invoicing Compliance Gateway
 

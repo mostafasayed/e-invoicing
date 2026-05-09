@@ -1,4 +1,3 @@
-
 # UAE E-Invoicing Compliance Gateway
 ## Product & Execution Blueprint
 

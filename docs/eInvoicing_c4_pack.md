@@ -1,4 +1,3 @@
-
 # UAE E-Invoicing Compliance Gateway
 ## C4 Architecture Pack + Execution Plan
 
